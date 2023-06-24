@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ntesp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ntesp_dir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\ntesp\</Value>
+    </Setting>
+    <Setting Name="comment1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">destroy computer</Value>
+    </Setting>
+    <Setting Name="comment2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1039-JP;1014-JJP;1010-JP;1057-JP;1143-JP;1151-JP;1153-JP;1166-JP;1171-JP;1199-JP;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
