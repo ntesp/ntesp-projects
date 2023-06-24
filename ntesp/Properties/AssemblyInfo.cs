@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ntesp")]
 [assembly: AssemblyDescription("ntesp Main Program")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("ntesp")]
 [assembly: AssemblyProduct("ntesp")]
-[assembly: AssemblyCopyright("Copyright ©  2023")]
+[assembly: AssemblyCopyright("ntesp © 2023 ~")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

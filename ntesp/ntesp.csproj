@@ -53,11 +53,12 @@
   <PropertyGroup>
     <StartupObject>ntesp.Utils.Program</StartupObject>
   </PropertyGroup>
-  <PropertyGroup>
-    <ApplicationManifest>app.manifest</ApplicationManifest>
-  </PropertyGroup>
+  <PropertyGroup />
   <PropertyGroup>
     <ApplicationIcon>iconfull.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.SqlServer.XMLSrc, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
@@ -118,6 +119,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Content Include="iconfull.ico" />
+    <None Include="docs\index.md" />
     <None Include="Resources\Icon.png" />
     <EmbeddedResource Include="AboutVersion.resx">
       <DependentUpon>AboutVersion.cs</DependentUpon>

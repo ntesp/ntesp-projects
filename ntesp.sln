@@ -8,9 +8,15 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40AF9E31-81D9-4382-930B-2D7D0106ECD1}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		CHANGELOG.md = CHANGELOG.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ntesp.Resource", "ntesp.Resource\ntesp.Resource.csproj", "{9EF5ACE5-062F-4ED4-B3B5-3BB7A38ACCE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{EC890C10-2EC2-4853-93A9-352E2C58A561}"
+	ProjectSection(SolutionItems) = preProject
+		index.md = index.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
